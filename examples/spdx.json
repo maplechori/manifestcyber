@@ -1,0 +1,11 @@
+{
+  "spdxVersion": "SPDX-2.3",
+  "SPDXID": "SPDXRef-DOCUMENT",
+  "dataLicense": "CC0-1.0",
+  "name": "spdx-app",
+  "documentNamespace": "https://example.com/spdx/spdx-app",
+  "creationInfo": {"creators": ["Tool: sbom-cli-example"], "created": "2026-10-30T00:00:00Z"},
+  "packages": [
+    {"SPDXID": "SPDXRef-requests", "name": "requests", "versionInfo": "2.32.3", "downloadLocation": "NOASSERTION", "filesAnalyzed": false, "licenseDeclared": "Apache-2.0", "licenseConcluded": "NOASSERTION"}
+  ]
+}

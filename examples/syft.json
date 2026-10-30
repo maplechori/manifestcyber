@@ -1,0 +1,7 @@
+{
+  "descriptor": {"name": "syft", "version": "1.0.0"},
+  "source": {"name": "syft-app", "type": "directory"},
+  "artifacts": [
+    {"name": "requests", "version": "2.32.3", "licenses": [{"value": "Apache-2.0", "spdxExpression": "Apache-2.0"}]}
+  ]
+}
